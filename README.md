@@ -1,2 +1,2 @@
 # POO-em-PHP
-Exercicios de Programação Orientada em Objetos em PHP realizado durante as aulas do Curso em Vídeo
+Exercicios de Programação Orientado em Objetos em PHP realizado durante as aulas do Curso em Vídeo
